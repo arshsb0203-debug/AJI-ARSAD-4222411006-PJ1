@@ -1,0 +1,17 @@
+==============================================================================
+  PRAKTIK TERPADU MINGGU 4-7 - RET503
+==============================================================================
+  NIM / Nama    : 4222411006 / Arsad.A
+  Waktu         : 17-10-2026 18:19:37
+  Komputer/user : LAPTOP-HJGRSPM0 / acer
+  Dataset       : dataset_v2  (sidik jari label: 76A39FB32896)
+  Pengaturan    : model yolov8n, epochs 10, imgsz 320, batch 4
+==============================================================================
+  Eksperimen     Perubahan        mAP50  mAP50-95      P      R     ms   menit
+  E1_pretrained  -                0.427     0.282  0.696  0.293   18.3     2.8
+  E2_scratch     -                0.004     0.001  0.002  0.087   14.5     2.6
+  E3_tuning      imgsz=416        0.499     0.298  0.662  0.548   26.7     4.0
+==============================================================================
+  Model terpilih (mAP50-95 val tertinggi): E3_tuning
+  Hasil di data TEST (sekali saja)       : mAP50 0.536 | mAP50-95 0.379
+==============================================================================
