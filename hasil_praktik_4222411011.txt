@@ -1,7 +1,7 @@
 ==============================================================================
   PRAKTIK TERPADU MINGGU 4-7 - RET503
 ==============================================================================
-  NIM / Nama    : 4222411011 / arjun.P
+  NIM / Nama    : 4222411006 / Arsad.A
   Waktu         : 17-10-2026 18:19:37
   Komputer/user : LAPTOP-HJGRSPM0 / acer
   Dataset       : dataset_v2  (sidik jari label: 76A39FB32896)
